@@ -665,6 +665,12 @@
     "file": "pkgsrc.git.mdx",
     "cname": "pkgsrc.git"
   },
+  "/pop-os/": {
+    "title": "pop-os 软件仓库",
+    "fullTitle": "pop-os 软件仓库镜像使用帮助",
+    "file": "pop-os.mdx",
+    "cname": "pop-os"
+  },
   "/postmarketOS/": {
     "title": "postmarketOS 软件仓库",
     "fullTitle": "postmarketOS 软件仓库镜像使用帮助",
